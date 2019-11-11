@@ -4,7 +4,7 @@ Install rEFInd on Windows
 What I use:
 
 wget.exe for downloading latest refind
-(http://gnuwin32.sourceforge.net/packages/wget.htm)
+(https://eternallybored.org/misc/wget/)
 
 unzip.exe for extracting it 
 (http://gnuwin32.sourceforge.net/packages/unzip.htm)
