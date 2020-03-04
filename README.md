@@ -13,4 +13,5 @@ Notepad++ (npp.exe, SciLexer.dll) for editing rEFInd.conf
 https://notepad-plus-plus.org/
 
 Bat to exe converter for compiling exe
-http://www.f2ko.de/en/b2e.php
+http://www.f2ko.de/en/b2e.php - not work anymore. Archive link below
+(https://web.archive.org/web/20190305143024/http://f2ko.de/en/b2e.php)
